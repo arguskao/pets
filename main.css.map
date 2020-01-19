@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Volumes/Macintosh HD/Hugo/github/24cc/pets",
+	"sourceRoot": "/Users/arguskao/Hugo/github/24cc/pets",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
